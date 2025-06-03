@@ -8,10 +8,10 @@ Projeto 01--dashboard financeiro
 ![Projeto 01](projeto1.png)
 
 Projeto 02--Dashboard de Análise Geográfica de Vendas
-[Projeto 02](projeto2.png)
+![Projeto 02](projeto2.png)
 
 Projeto 03--Dashboard de Comparativo Mensal de Desempenho
-[Projeto 03](projeto3.png)
+![Projeto 03](projeto3.png)
 
 
 
